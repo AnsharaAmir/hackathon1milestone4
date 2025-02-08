@@ -1,0 +1,77 @@
+*
+div{
+    text-align: left;
+    font: optional;
+    margin: 10px;
+    background-color: bisque;
+    box-shadow: 0 4px 8px;
+    border-radius: 8px
+    ;
+
+}
+    legend{
+        text-align: center;
+        text-decoration: antiquewhite;
+        text-decoration-style: inherit;
+    font-style: oblique;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+color: chocolate;
+font-weight: 200;
+}
+body{
+    text-align: center ;
+    margin: 20px;
+    max-width: 600px;
+    background-color: ivory; 
+color: chocolate;
+text-decoration: double;
+}
+h1{
+    text-align: center;
+    text-decoration: antiquewhite;
+    text-decoration-style: inherit;
+color: indianred;
+font-style: oblique;
+}
+input{
+    
+border-radius: 8px;
+background-color: ivory;
+}
+textarea{
+    background-color: ivory;
+    border-radius: 8px;
+    border-width: 2px;
+}
+fieldset{
+    padding: auto;
+margin-left: auto;
+    border-radius: 8px;
+    border-color: darksalmon;
+}
+button{
+
+    border-radius: 8px;
+    font-style: italic;
+    padding: 2%;
+    text-align: center;
+    margin-left: 8px;
+background-color: darksalmon;   
+border-color: brown;
+color: black;
+cursor: pointer;
+font-family: 'Times New Roman', Times, serif;
+}
+#resumeOutput {
+max-width: 600px;
+margin: auto;
+padding: 20px;
+border: 2px solid beige;
+border-radius: 8px;
+background-color: ivory;
+box-shadow: 0 4px 8px;
+outline: none;
+}
+#resumeOutput h2 {
+    color:indianred ;
+}
